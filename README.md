@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # work Tracker System
 
 A web application to manage employee records
